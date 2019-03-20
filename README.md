@@ -1,2 +1,2 @@
 # Cattle-GeneAtlas
-Gene expression across 91 tissues and cell types from 723 RNA-seq datasets in cattle
+Gene expression (FPKM) across 91 tissues and cell types from 723 RNA-seq datasets in cattle. We computed the t-statistic to measure the tissue-specific expression pattern for each gene in each tissue and cell type. Our cattle-GeneAtlas V1 provides a primary source for GWAS interpretation, functional validation, studies of adaptive evolution, domestication and genomic improvement in livestock. For intance, you could conducted a tissue-enrichment analysis (like GO or KEGG enrichment analysis) using Cattle-GeneAtlas to detect the potential tissues or cell types on which  genes of your interest (e.g., from a certain GWAS or evolution study) would act.

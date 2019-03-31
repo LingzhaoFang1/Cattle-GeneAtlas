@@ -6,3 +6,5 @@ This R code can be used to explore and plot the number of expressed genes and sa
 
 # Cattle_GeneAtlas_Tissue_Specific_Genes_Defination.R
 This R code were used to detect the tissue-specific genes by computing the t-statistics for each gene in a tissue compared to other tissues that not belonging to the same cetagory
+
+ 

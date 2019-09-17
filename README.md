@@ -9,3 +9,6 @@ This R code were used to detect the tissue-specific genes by computing the t-sta
 
 # Smaples_Summary.Rdata
 This R object contains the metadata for all 723 samples, more details can also be found in our manuscript.
+
+#Gene_Expression_Altlas_723_part1-4.Rdata
+These R onjects contain gene expression (FPKM) for all 24616 Ensembl genes across 723 samples, based on UMD3.1

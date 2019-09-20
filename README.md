@@ -12,3 +12,6 @@ This R object contains the metadata for all 723 samples, more details can also b
 
 # Gene_Expression_Altlas_723_part1-4.Rdata
 These R onjects contain gene expression (FPKM) for all 24616 Ensembl genes across 723 samples, based on UMD3.1
+
+# outrigger_psi.csv
+This file contains the PSI (percent spliced-in) output from outrigger sotfware (https://yeolab.github.io/outrigger/). PSI is for measuring the alternative splcing events.
